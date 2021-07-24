@@ -7,3 +7,6 @@ git branch -M main
 git remote add origin https://github.com/Barracudakun/Firstgitcommand.git
 git push -u origin main
 '''
+
+git = "update first command"
+print(git)
